@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DrawingApp</string>
+    <string name="image">image</string>
+    <string name="please_wait" tools:ignore="TypographyEllipsis">Please Wait...</string>
+</resources>
